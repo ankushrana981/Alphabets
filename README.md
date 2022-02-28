@@ -5,7 +5,7 @@ This is a webpage contains Aplhabets with the help of html and css coding .This 
 
 # Video (Output)
 
-![video](alphabetsputput.mov)
+![video](alphabetsoutput (VLC) (.mov))
 
 
 
